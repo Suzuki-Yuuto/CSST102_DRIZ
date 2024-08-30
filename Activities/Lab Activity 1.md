@@ -1,7 +1,7 @@
-Laboratory Activities for Topic 1: Introduction to Machine Learning
+# Laboratory Activities for Topic 1: Introduction to Machine Learning
 
-Lab Activity 1: Overview of Machine Learning Applications
-Objective: Familiarize students with various applications of machine learning in real-world scenarios.
+## Lab Activity 1: Overview of Machine Learning Applications
+###Objective: Familiarize students with various applications of machine learning in real-world scenarios.
 
 Instructions:
 * Research and identify at least three different applications of machine learning across various domains (e.g., healthcare, finance, marketing).
