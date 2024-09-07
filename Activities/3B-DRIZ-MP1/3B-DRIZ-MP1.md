@@ -1,3 +1,5 @@
+## [Video Link](https://github.com/Suzuki-Yuuto/CSST102_DRIZ/blob/main/Activities/3B-DRIZ-MP1/3B-DRIZ-MP1.mp4)
+
 # Laboratory Activities for Topic 1: Introduction to Machine Learning
 
 Lab Activity 1: Overview of Machine Learning Applications
