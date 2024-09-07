@@ -3,13 +3,6 @@
 Lab Activity 1: Overview of Machine Learning Applications
 Objective: Familiarize students with various applications of machine learning in real-world scenarios.
 
-Instructions:
-* Research and identify at least three different applications of machine learning across various domains (e.g., healthcare, finance, marketing).
-* Create a presentation summarizing each application, including:
-* The problem being solved
-* The type of machine learning used (supervised, unsupervised, reinforcement)
-* The impact of the solution
-
  ### Applications of Machine Learning Across Various Domains
 1. Healthcare
 2. Finance
