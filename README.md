@@ -7,6 +7,6 @@ This is where I store my CSST102 Activities
 ### Activities:
 * **Lab Activity 1 (Week 2)**
 * Deadline: Sept. 2 2024
-* [Link]([https://github.com/Suzuki-Yuuto/CSST102_DRIZ/blob/main/Activities/Lab%20Activity%201.md](https://github.com/Suzuki-Yuuto/CSST102_DRIZ/tree/main/Activities/3B-DRIZ-MP1)
+* [3B-DRIZ-MP1](https://github.com/Suzuki-Yuuto/CSST102_DRIZ/tree/main/Activities/3B-DRIZ-MP1)
 
 Github Pages Link: N/A
